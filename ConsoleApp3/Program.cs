@@ -22,7 +22,7 @@ namespace ConsoleApp3
 
             var s2 = que.Dequeue();
             Console.WriteLine(s2.ToString());
-
+//test
             Console.ReadKey();
         }
     }
